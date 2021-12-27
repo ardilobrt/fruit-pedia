@@ -2,7 +2,7 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    tools:context="com.junarcho.fruitpedia.MainActivity">
+    tools:context="com.junarcho.fruit_pedia.MainActivity">
 
     <item
         android:id="@+id/action_list"

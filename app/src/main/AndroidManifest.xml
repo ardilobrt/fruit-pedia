@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.junarcho.buahpedia">
+    package="com.junarcho.buah_pedia">
 
     <application
         android:icon="@mipmap/ic_launcher"
@@ -11,7 +11,7 @@
         android:theme="@style/Theme.BuahPedia"
         tools:ignore="AllowBackup">
         <activity
-            android:name="com.junarcho.fruitpedia.SplashScreenActivity"
+            android:name="com.junarcho.fruit_pedia.SplashScreenActivity"
             android:theme="@style/Theme.SplashScreen.BuahPedia"
             android:exported="true">
             <intent-filter>
@@ -20,14 +20,14 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.junarcho.fruitpedia.AboutActivity"
+            android:name="com.junarcho.fruit_pedia.AboutActivity"
             android:exported="false" />
         <activity
-            android:name="com.junarcho.fruitpedia.DetailActivity"
+            android:name="com.junarcho.fruit_pedia.DetailActivity"
             android:exported="false"
             android:theme="@style/AppTheme.ActionBar.Transparent" />
         <activity
-            android:name="com.junarcho.fruitpedia.MainActivity"
+            android:name="com.junarcho.fruit_pedia.MainActivity"
             android:exported="true">
         </activity>
     </application>

@@ -1,4 +1,4 @@
-package com.junarcho.fruitpedia.adapter
+package com.junarcho.fruit_pedia.adapter
 
 import android.view.LayoutInflater
 import android.view.View
@@ -10,8 +10,8 @@ import android.widget.Toast
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
 import com.bumptech.glide.request.RequestOptions
-import com.junarcho.buahpedia.R
-import com.junarcho.fruitpedia.entity.Fruits
+import com.junarcho.buah_pedia.R
+import com.junarcho.fruit_pedia.entity.Fruits
 
 class CardFruitAdapter(private val listFruit: ArrayList<Fruits>) :
     RecyclerView.Adapter<CardFruitAdapter.CardViewHolder>() {

@@ -1,6 +1,6 @@
-package com.junarcho.fruitpedia.entity
+package com.junarcho.fruit_pedia.entity
 
-import com.junarcho.buahpedia.R
+import com.junarcho.buah_pedia.R
 
 object FruitsData {
 

@@ -1,11 +1,11 @@
-package com.junarcho.fruitpedia
+package com.junarcho.fruit_pedia
 
 import android.annotation.SuppressLint
 import android.content.Intent
 import android.os.Bundle
 import android.widget.ImageView
 import androidx.appcompat.app.AppCompatActivity
-import com.junarcho.buahpedia.R
+import com.junarcho.buah_pedia.R
 
 @SuppressLint("CustomSplashScreen")
 class SplashScreenActivity : AppCompatActivity() {

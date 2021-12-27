@@ -1,4 +1,4 @@
-package com.junarcho.fruitpedia
+package com.junarcho.fruit_pedia
 
 import org.junit.Test
 

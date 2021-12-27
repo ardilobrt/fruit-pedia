@@ -1,4 +1,4 @@
-package com.junarcho.fruitpedia.entity
+package com.junarcho.fruit_pedia.entity
 
 class Fruits {
 

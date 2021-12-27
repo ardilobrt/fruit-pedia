@@ -1,4 +1,4 @@
-package com.junarcho.fruitpedia
+package com.junarcho.fruit_pedia
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
@@ -9,12 +9,12 @@ import android.widget.Toast
 import androidx.recyclerview.widget.GridLayoutManager
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
-import com.junarcho.buahpedia.R
-import com.junarcho.fruitpedia.adapter.CardFruitAdapter
-import com.junarcho.fruitpedia.adapter.GridFruitAdapter
-import com.junarcho.fruitpedia.adapter.ListFruitAdapter
-import com.junarcho.fruitpedia.entity.Fruits
-import com.junarcho.fruitpedia.entity.FruitsData
+import com.junarcho.buah_pedia.R
+import com.junarcho.fruit_pedia.adapter.CardFruitAdapter
+import com.junarcho.fruit_pedia.adapter.GridFruitAdapter
+import com.junarcho.fruit_pedia.adapter.ListFruitAdapter
+import com.junarcho.fruit_pedia.entity.Fruits
+import com.junarcho.fruit_pedia.entity.FruitsData
 class MainActivity : AppCompatActivity() {
 
     private lateinit var rvFruits: RecyclerView

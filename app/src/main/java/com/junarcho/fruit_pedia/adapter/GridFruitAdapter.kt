@@ -1,4 +1,4 @@
-package com.junarcho.fruitpedia.adapter
+package com.junarcho.fruit_pedia.adapter
 
 import android.view.LayoutInflater
 import android.view.View
@@ -6,8 +6,8 @@ import android.view.ViewGroup
 import android.widget.ImageView
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
-import com.junarcho.buahpedia.R
-import com.junarcho.fruitpedia.entity.Fruits
+import com.junarcho.buah_pedia.R
+import com.junarcho.fruit_pedia.entity.Fruits
 
 class GridFruitAdapter(private val listFruit: ArrayList<Fruits>) :
     RecyclerView.Adapter<GridFruitAdapter.GridViewHolder>() {

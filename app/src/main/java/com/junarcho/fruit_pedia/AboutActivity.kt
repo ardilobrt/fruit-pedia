@@ -1,8 +1,8 @@
-package com.junarcho.fruitpedia
+package com.junarcho.fruit_pedia
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.junarcho.buahpedia.R
+import com.junarcho.buah_pedia.R
 
 class AboutActivity : AppCompatActivity() {
 

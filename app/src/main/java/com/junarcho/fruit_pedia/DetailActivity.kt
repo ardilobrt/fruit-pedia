@@ -1,4 +1,4 @@
-package com.junarcho.fruitpedia
+package com.junarcho.fruit_pedia
 
 import android.graphics.Color
 import android.os.Bundle
@@ -7,7 +7,7 @@ import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.WindowCompat
 import com.bumptech.glide.Glide
-import com.junarcho.buahpedia.R
+import com.junarcho.buah_pedia.R
 
 
 class DetailActivity : AppCompatActivity() {
