@@ -1,4 +1,5 @@
-# BuahPedia
+# Buah Pedia
+Android Mobile Apps about Fruits using Kotlin
 - Display list of fruits in 3 Formats View (Recycle View, Grid View , and Card View).
 - Display relevant pictures & information page after click one item.
 - Using manual data collection.
