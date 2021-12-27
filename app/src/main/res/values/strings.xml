@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Fruit Pedia</string>
+    <string name="fruits_name">Fruits Name</string>
+    <string name="english_name">English Name</string>
+    <string name="detail">Detail</string>
+    <string name="cari_buah">Cari Buah</string>
+    <string name="list">List View</string>
+    <string name="grid">Grid View</string>
+    <string name="with_cardView">Card View</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+    <string name="about">About Developer</string>
+    <string name="benefit">Manfaat</string>
+    <string name="numbers">
+        1.\n2.\n3.\n4.\n5.\n6.\n7.\n8.\n9.\n10.
+    </string>
+    <string name="list_benefit">Detail Manfaat</string>
+    <string name="full_name">Junarcho Ardilo Berutu</string>
+    <string name="email">ardilobrt@gmail.com</string>
+</resources>

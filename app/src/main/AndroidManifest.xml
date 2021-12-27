@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.junarcho.buahpedia">
+
+    <application
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.BuahPedia"
+        tools:ignore="AllowBackup">
+        <activity
+            android:name="com.junarcho.fruitpedia.SplashScreenActivity"
+            android:theme="@style/Theme.SplashScreen.BuahPedia"
+            android:exported="true">
+            <intent-filter>
+                <category android:name="android.intent.category.LAUNCHER" />
+                <action android:name="android.intent.action.MAIN" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.junarcho.fruitpedia.AboutActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.junarcho.fruitpedia.DetailActivity"
+            android:exported="false"
+            android:theme="@style/AppTheme.ActionBar.Transparent" />
+        <activity
+            android:name="com.junarcho.fruitpedia.MainActivity"
+            android:exported="true">
+        </activity>
+    </application>
+
+</manifest>

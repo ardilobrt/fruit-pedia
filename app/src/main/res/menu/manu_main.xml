@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.junarcho.fruitpedia.MainActivity">
+
+    <item
+        android:id="@+id/action_list"
+        android:title="@string/list"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_grid"
+        android:title="@string/grid"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_cardview"
+        android:title="@string/with_cardView"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/about"
+        android:icon="@drawable/ic_user"
+        android:title="@string/about"
+        app:showAsAction="ifRoom"/>
+</menu>
