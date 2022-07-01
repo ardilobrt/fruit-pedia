@@ -2,7 +2,7 @@
 Android Mobile Apps about Fruits using Kotlin
 - Display list of fruits in 3 Formats View (Recycle View, Grid View , and Card View).
 - Display relevant pictures & information page after click one item.
-- Using manual data collection.
+- Using local data collection.
 
 You Can Download This App <a href="https://drive.google.com/file/d/19Kmugbaip7MDu1NJ0vZ3PygDOzSZFDk9/view?usp=sharing"> Here </a>
 
